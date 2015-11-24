@@ -1,0 +1,14 @@
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\calculadora3\calculadora3\bin\Debug\calculadora3.exe.config
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\calculadora3\calculadora3\bin\Debug\calculadora3.exe
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\calculadora3\calculadora3\bin\Debug\calculadora3.pdb
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\calculadora3\calculadora3\obj\Debug\calculadora3.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\calculadora3\calculadora3\obj\Debug\MainWindow.g.cs
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\calculadora3\calculadora3\obj\Debug\App.g.cs
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\calculadora3\calculadora3\obj\Debug\calculadora3_MarkupCompile.cache
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\calculadora3\calculadora3\obj\Debug\calculadora3_MarkupCompile.lref
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\calculadora3\calculadora3\obj\Debug\MainWindow.baml
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\calculadora3\calculadora3\obj\Debug\calculadora3.g.resources
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\calculadora3\calculadora3\obj\Debug\calculadora3.Properties.Resources.resources
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\calculadora3\calculadora3\obj\Debug\calculadora3.csproj.GenerateResource.Cache
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\calculadora3\calculadora3\obj\Debug\calculadora3.exe
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\calculadora3\calculadora3\obj\Debug\calculadora3.pdb

@@ -1,0 +1,47 @@
+﻿<Window x:Class="calculadora.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:calculadora"
+        mc:Ignorable="d"
+        Title="Calculadora" Height="350" Width="525">
+    <Grid Margin="0,0,0,1">
+        <TextBlock Text="Valor 1:" Margin="19,10,391,284" TextElement.FontSize="13"/>
+        <TextBox Name="vlr1" Margin="19,39,391,252"/>
+        <TextBlock Text="Valor 2:" Margin="19,79,391,215" TextElement.FontSize="13" />
+        <TextBox Name="vlr2" Margin="19,108,391,183"/>
+        <TextBlock Text="Escolha uma operação:" Margin="19,140,359,154" TextElement.FontSize="13"/>
+        <Button Name="btnsoma"
+                Content="+" 
+                Click="btnsoma_Click" Margin="19,174,467,0" Height="24" VerticalAlignment="Top"
+                Background="LightBlue"/>
+            
+        <Button Name="btnsub"
+                Content="-"
+                Click="btnsub_Click" Margin="55,174,431,0" Height="24" VerticalAlignment="Top"
+                Background="LawnGreen"/>
+        <Button Name="btnmult"
+                Content="x"
+                Click="btnmult_Click" Margin="91,174,395,0" Height="24" VerticalAlignment="Top"
+                Background="LightCoral"/>
+        <Button Name="btndiv"
+                Content="/"
+                Click="btndiv_Click" Margin="127,174,359,0" Height="24" VerticalAlignment="Top"
+                Background="Bisque"/>
+        <TextBlock Text="Resultado:" Margin="19,212,373,82" TextElement.FontSize="13"/>
+
+        <Button Name="btnlimp"
+                Content="Limpar"
+                Click="btnlimp_Click" Margin="19,284,421,0" Height="24" VerticalAlignment="Top"
+                Background="SeaGreen"/>
+        <TextBox Name="result" Margin="19,236,391,55"/>
+
+
+
+
+
+
+
+    </Grid>
+</Window>
